@@ -1,10 +1,3 @@
-//
-//  CommentModel.swift
-//  SOLIDPrinciple
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 import Foundation
 
 struct CommentModel: Decodable {

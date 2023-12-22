@@ -1,10 +1,3 @@
-//
-//  SOLIDPrincipleApp.swift
-//  SOLIDPrinciple
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 // Single Responsiblity Principle 
 // Open/Close Principle
 // Liskov Substitution Principle

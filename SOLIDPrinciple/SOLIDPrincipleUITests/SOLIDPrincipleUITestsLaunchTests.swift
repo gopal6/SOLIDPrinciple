@@ -1,10 +1,3 @@
-//
-//  SOLIDPrincipleUITestsLaunchTests.swift
-//  SOLIDPrincipleUITests
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 import XCTest
 
 final class SOLIDPrincipleUITestsLaunchTests: XCTestCase {

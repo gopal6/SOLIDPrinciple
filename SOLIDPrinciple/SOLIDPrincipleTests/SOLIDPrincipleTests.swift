@@ -1,10 +1,3 @@
-//
-//  SOLIDPrincipleTests.swift
-//  SOLIDPrincipleTests
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 import XCTest
 @testable import SOLIDPrinciple
 
