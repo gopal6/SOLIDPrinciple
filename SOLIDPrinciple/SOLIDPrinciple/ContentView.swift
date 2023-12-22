@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SOLIDPrinciple
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {

@@ -1,10 +1,3 @@
-//
-//  CommentsViewServices.swift
-//  SOLIDPrinciple
-//
-//  Created by VaishaliChandana Undrakonda on 18/11/23.
-//
-
 import Foundation
 
 let commentsURL = "https://jsonplaceholder.typicode.com/comments"
